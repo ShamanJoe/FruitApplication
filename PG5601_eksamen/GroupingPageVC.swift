@@ -35,7 +35,7 @@ class GroupingPageVC: UIViewController, UICollectionViewDelegate, UICollectionVi
         layout.scrollDirection = .vertical
         layout.minimumLineSpacing = 8
         layout.minimumInteritemSpacing = 8
-         layout.itemSize = CGSize(width: (view.frame.size.width/2) - 12, height: (view.frame.size.height/4))
+        layout.itemSize = CGSize(width: (view.frame.size.width/2) - 12, height: (view.frame.size.height/4))
         layout.sectionInset = UIEdgeInsets(top: 0, left: 0, bottom: 0, right: 0)
         collectionView = UICollectionView(frame: .zero, collectionViewLayout: layout)
         
