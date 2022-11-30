@@ -1,10 +1,3 @@
-//
-//  GroupingPageVC.swift
-//  PG5601_eksamen
-//
-//  Created by jonathan solheim on 28/11/2022.
-//
-
 import UIKit
 
 class GroupingPageVC: UIViewController, UICollectionViewDelegate, UICollectionViewDataSource,UICollectionViewDelegateFlowLayout{

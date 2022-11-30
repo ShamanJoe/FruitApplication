@@ -1,10 +1,3 @@
-//
-//  PG5601_eksamenUITests.swift
-//  PG5601_eksamenUITests
-//
-//  Created by jonathan solheim on 19/11/2022.
-//
-
 import XCTest
 
 final class PG5601_eksamenUITests: XCTestCase {

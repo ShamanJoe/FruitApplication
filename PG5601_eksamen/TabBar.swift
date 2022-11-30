@@ -1,10 +1,3 @@
-//
-//  TabBar.swift
-//  PG5601_eksamen
-//
-//  Created by jonathan solheim on 26/11/2022.
-//
-
 import UIKit
 
 class TabBar: UITabBarController {

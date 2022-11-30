@@ -1,10 +1,3 @@
-//
-//  FruitCell.swift
-//  PG5601_eksamen
-//
-//  Created by jonathan solheim on 20/11/2022.
-//
-
 import UIKit
 
 class FruitCell: UITableViewCell{

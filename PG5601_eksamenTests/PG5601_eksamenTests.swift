@@ -1,10 +1,3 @@
-//
-//  PG5601_eksamenTests.swift
-//  PG5601_eksamenTests
-//
-//  Created by jonathan solheim on 19/11/2022.
-//
-
 import XCTest
 @testable import PG5601_eksamen
 

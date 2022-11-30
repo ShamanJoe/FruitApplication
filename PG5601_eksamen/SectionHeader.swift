@@ -1,10 +1,3 @@
-//
-//  SectionHeader.swift
-//  PG5601_eksamen
-//
-//  Created by jonathan solheim on 30/11/2022.
-//
-
 import UIKit
 
 

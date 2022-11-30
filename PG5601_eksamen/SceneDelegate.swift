@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  PG5601_eksamen
-//
-//  Created by jonathan solheim on 19/11/2022.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
